@@ -1,0 +1,143 @@
+.banner{
+    
+   
+    
+}
+.banner-title{
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 76px;
+    font-style: normal;
+    margin-left: 850px;
+    margin-top: 206px;
+    
+}
+
+
+.banner-sub-title{
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 850px;
+    color: #444343
+}
+.btn-first{
+    margin-left: 860px;
+    color: white;
+    margin-top: 19px;
+    height: 33px;
+    width: 209px;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: purple;
+}
+.header{
+    background-image: url(images/banner/banner2.png);
+    position: absolute;
+    
+    height: 709px;
+    width: 1500px;
+    top: 0;
+    
+}
+main{
+    max-width: ;
+}
+.discription-dis{
+    display: flex;
+    margin-top: 800px;
+    margin-left: 106px;
+    margin-right: 106px;
+
+}
+.discription-full{
+    display: block;
+    margin-left: 250px;
+    margin-top: 250px;
+}
+.discription-dis-title{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+}
+.discription-dis-p{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+.discription-list{
+    
+    
+    
+}
+.plan{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 130px;
+    box-shadow: 5px grey;
+}
+  
+.plan-title{
+    text-align: center;
+    margin-bottom: 10px;
+    top: 100px;
+    display: block;
+}
+.call-dis{
+    
+    background-image: url(images/gradient2.png),url(images/watch.png);
+    margin-right: 160px;
+    margin-left: 160px;
+    height: 300px;
+    width: 1140px;
+
+}
+.call-btn{
+    width: 160px;
+height: 64px;
+left: 294px;
+top: 400px;
+color: blue;
+}
+.call-title{
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: 700;
+    color: beige;
+    
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 300px;
+    background-color: black;
+    height: 577px;
+}
+.subs{
+    margin-right: 100px;
+    color: antiquewhite;
+    margin-top: 333px;
+}
+.subs-btn{
+    width: 170.11px;
+height: 64px;
+background-color: purple;
+font-size: 20px;
+color: aliceblue;
+}
+.future{
+    color: aliceblue;
+    top: 200px;
+    
+}
+.future-title{
+    font-size: 44px;
+    font-weight: 700;
+}
